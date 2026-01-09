@@ -50,6 +50,11 @@
             <artifactId>spring-webmvc</artifactId>
             <version>${spring.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 
         <!-- Thymeleaf for Spring 6 (обратите внимание: spring6, а не spring5!) -->
         <dependency>
