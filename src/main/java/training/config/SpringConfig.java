@@ -16,9 +16,6 @@ import org.thymeleaf.spring6.view.ThymeleafViewResolver;
 
 import javax.sql.DataSource;
 
-/**
- * @author Neil Alishev
- */
 @Configuration
 @ComponentScan("training")
 @EnableWebMvc
